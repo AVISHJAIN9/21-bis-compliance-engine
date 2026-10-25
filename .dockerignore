@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+bis-frontend
+.env
+.env.local
+uvicorn.log
+venv

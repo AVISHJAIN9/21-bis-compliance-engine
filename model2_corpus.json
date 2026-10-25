@@ -1,0 +1,130 @@
+[
+  {
+    "standard": "IS 14543:2024",
+    "product_name": "Packaged Drinking Water (Other Than Packaged Natural Mineral Water)",
+    "department": "FAD",
+    "qco_order": "Packaged Drinking Water (Quality Control) Order",
+    "scheme": "Scheme-I (ISI Mark)",
+    "portal": "Manakonline Portal",
+    "lab": "BIS Central Laboratory / NABL Accredited Food & Water Labs",
+    "surveillance": "Bi-Annual Microbiological Batch Surveillance",
+    "text": "Packaged drinking water 1 litre 500ml 20 litre bubble top jars containers potable sealed water mineral processing IS 14543",
+    "citation": {
+      "clause_reference": "IS 14543:2024, Clause 4 (Microbiological & Chemical Requirements)",
+      "source_url": "https://www.manakonline.in",
+      "statutory_act": "Food Safety and Standards Regulations & BIS Act 2016 Mandatory List"
+    }
+  },
+  {
+    "standard": "IS 2062:2011",
+    "product_name": "Hot Rolled Medium and High Tensile Structural Steel",
+    "department": "CED",
+    "qco_order": "Steel and Steel Products (Quality Control) Order 2020",
+    "scheme": "Scheme-I (ISI Mark)",
+    "portal": "Manakonline Portal",
+    "lab": "National Test House / NABL Metallurgical Lab",
+    "surveillance": "Annual Factory Inspection and Heat Chemical Analysis",
+    "text": "Structural steel sections for building frame angles channels beams plates hot rolled tensile steel IS 2062",
+    "citation": {
+      "clause_reference": "IS 2062:2011, Clause 7 (Tensile & Bend Properties) & Clause 11 (Marking)",
+      "source_url": "https://www.manakonline.in",
+      "statutory_act": "Steel and Steel Products (Quality Control) Order 2020"
+    }
+  },
+  {
+    "standard": "IS 1786:2008",
+    "product_name": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement",
+    "department": "MTD",
+    "qco_order": "Steel and Steel Products (Quality Control) Order 2020",
+    "scheme": "Scheme-I (ISI Mark)",
+    "portal": "Manakonline Portal",
+    "lab": "NABL Accredited Mechanical and Civil Test House",
+    "surveillance": "Routine Batch Yield Testing and Verification",
+    "text": "Thermo mechanically treated TMT rebars 16mm 12mm high strength deformed steel bars reinforcement concrete IS 1786 Fe 500D",
+    "citation": {
+      "clause_reference": "IS 1786:2008, Clause 8 (Chemical Composition) & Clause 9 (Mechanical Tests)",
+      "source_url": "https://www.manakonline.in",
+      "statutory_act": "Steel and Steel Products (Quality Control) Order 2020"
+    }
+  },
+  {
+    "standard": "IS 12269:2013",
+    "product_name": "Ordinary Portland Cement 53 Grade",
+    "department": "CED",
+    "qco_order": "Cement (Quality Control) Order 2003",
+    "scheme": "Scheme-I (ISI Mark)",
+    "portal": "Manakonline Portal",
+    "lab": "National Council for Cement and Building Materials (NCCBM)",
+    "surveillance": "Mandatory In-House Physical Strength & Soundness Surveillance",
+    "text": "Ordinary Portland Cement 53 grade OPC compressive strength clinker concrete structural IS 12269",
+    "citation": {
+      "clause_reference": "IS 12269:2013, Clause 6 (Physical Requirements) & Clause 10 (Marking)",
+      "source_url": "https://www.manakonline.in",
+      "statutory_act": "BIS Act 2016, Section 16 (Mandatory QCO S.O. 235(E))"
+    }
+  },
+  {
+    "standard": "IS 9873 (Part 1):2019",
+    "product_name": "Safety of Toys - Mechanical and Physical Properties",
+    "department": "CHTD",
+    "qco_order": "Toys (Quality Control) Order 2020",
+    "scheme": "Scheme-I (ISI Mark)",
+    "portal": "Manakonline Portal",
+    "lab": "BIS Recognized Physical & Mechanical Toy Testing Labs",
+    "surveillance": "Random Market and Factory Batch Sampling",
+    "text": "Plastic toys toddler choking hazards small parts sharp edges mechanical safety drop test plush toys IS 9873",
+    "citation": {
+      "clause_reference": "IS 9873 (Part 1):2019, Clause 4 (Mechanical and Physical Properties)",
+      "source_url": "https://www.manakonline.in",
+      "statutory_act": "Toys (Quality Control) Order 2020 (DPIIT Notification)"
+    }
+  },
+  {
+    "standard": "AIS 156",
+    "product_name": "Specific Requirements for L Category Electric Power Train Traction Battery",
+    "department": "MoRTH_AIS",
+    "qco_order": "Central Motor Vehicles Rules (CMVR) Rule 126",
+    "scheme": "Type Approval Certificate (TAC)",
+    "portal": "Vahan Portal / Homologation Test Portal",
+    "lab": "ARAI (Pune) / ICAT (Manesar) / CIRT (Pune)",
+    "surveillance": "Conformity of Production (COP) Testing Every 2 Years",
+    "text": "EV Traction Battery pack for 2-wheeler safety thermal runaway propagation overcharge protection AIS 156 Amendment 3 L category",
+    "citation": {
+      "clause_reference": "AIS 156 (Amendment 3), Section 6.2 (Thermal Runaway Test) & Section 6.4 (Overcharge)",
+      "source_url": "https://morth.nic.in",
+      "statutory_act": "Central Motor Vehicles Rules (CMVR), Rule 126"
+    }
+  },
+  {
+    "standard": "AIS 140:2016",
+    "product_name": "Intelligent Transportation Systems (ITS) Location Tracking & Panic Button",
+    "department": "MoRTH_AIS",
+    "qco_order": "CMVR Rule 125H Notification",
+    "scheme": "Type Approval Certificate (TAC)",
+    "portal": "Vahan Homologation Portal",
+    "lab": "ARAI (Pune) / ICAT (Manesar)",
+    "surveillance": "Annual COP and Device Backend Telemetry Verification",
+    "text": "Vehicle location tracking device VLTD panic button emergency alert system commercial transport AIS 140",
+    "citation": {
+      "clause_reference": "AIS 140:2016, Section 5 (Location Tracking) & Section 6 (Emergency Buttons)",
+      "source_url": "https://morth.nic.in",
+      "statutory_act": "Central Motor Vehicles Rules, Rule 125H"
+    }
+  },
+  {
+    "standard": "IS 302-2-15:2009",
+    "product_name": "Safety of Household Electrical Appliances - Liquid Heaters",
+    "department": "ETD",
+    "qco_order": "Electrical Appliances (Quality Control) Order 2023",
+    "scheme": "Scheme-I (ISI Mark)",
+    "portal": "Manakonline Portal",
+    "lab": "Central Power Research Institute (CPRI) / BIS Labs",
+    "surveillance": "Annual Factory Quality and Insulation Testing",
+    "text": "Domestic electric kettle liquid heating heating element boil-dry protection corded appliances IS 302-2-15",
+    "citation": {
+      "clause_reference": "IS 302-2-15:2009, Clause 19 (Abnormal Operation) & Clause 22 (Construction)",
+      "source_url": "https://www.manakonline.in",
+      "statutory_act": "Electrical Appliances (Quality Control) Order 2023"
+    }
+  }
+]
