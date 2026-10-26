@@ -8,3 +8,6 @@ bis-frontend
 .env.local
 uvicorn.log
 venv
+all-MiniLM-L6-v2-local
+node_modules
+22-BIS-SIH26107-2026

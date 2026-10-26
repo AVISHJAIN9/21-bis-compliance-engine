@@ -70,6 +70,10 @@ class AuditExportRequest(BaseModel):
 def health_check():
     return {"status": "live", "service": "BIS & AIS Compliance Engine"}
 
+@app.get("/health")
+def health():
+    return {"status": "ok"}
+
 @app.post("/chat")
 def chat_endpoint(req: QueryRequest):
     query = req.message.strip()
