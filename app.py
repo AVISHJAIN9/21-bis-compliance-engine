@@ -86,11 +86,15 @@ def chat_endpoint(req: QueryRequest):
             "audit_data": None
         }
 
-    predicted_dept = dept_model.predict([query])[0]
-    if predicted_dept == "small_talk":
+    try:
+        predicted_dept = dept_model.predict([query])[0]
+        if predicted_dept == "small_talk":
+            predicted_dept = "General Compliance"
+    except Exception:
         predicted_dept = "General Compliance"
 
     query_vec = np.array(list(embedder.embed([query])), dtype="float32")
+    faiss.normalize_L2(query_vec)
     distances, indices = index.search(query_vec, k=1)
     top_score = float(distances[0][0])
     matched_item = corpus[indices[0][0]]
@@ -144,6 +148,7 @@ def chat_endpoint(req: QueryRequest):
 @app.post("/audit/export")
 def export_audit(req: AuditExportRequest):
     query_vec = np.array(list(embedder.embed([req.text])), dtype="float32")
+    faiss.normalize_L2(query_vec)
     distances, indices = index.search(query_vec, k=1)
     matched_item = corpus[indices[0][0]]
     readiness = evaluate_readiness(req.documents or [], standard=matched_item.get("standard", ""))

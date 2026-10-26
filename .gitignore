@@ -18,3 +18,6 @@ __pycache__/
 *.pem
 *.key
 node_modules
+# Secrets protection
+.secrets.local
+*.local
